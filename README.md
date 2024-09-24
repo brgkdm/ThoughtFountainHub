@@ -15,7 +15,9 @@ Anyone can contribute. You can share your ideas from the [issues](https://github
 
 > **Don't forget** to choose the template you will use! [CONTRIBUTING.md](https://github.com/brgkdm/ThoughtFountainHub/blob/main/CONTRIBUTING.md)
 
-> Also, follow the sharing **rules**. [CODE_OF_CONDUCT.md](https://github.com/brgkdm/ThoughtFountainHub/blob/main/CODE_OF_CONDUCT.md)
+> Follow the sharing **rules**. [CODE_OF_CONDUCT.md](https://github.com/brgkdm/ThoughtFountainHub/blob/main/CODE_OF_CONDUCT.md)
+
+> Use a PR (Pull Request) Template. [PULL_REQUEST_TEMPLATE.md](https://github.com/brgkdm/ThoughtFountainHub/blob/main/PULL_REQUEST_TEMPLATE.md)
 
 #
 **Remember,**
