@@ -1,5 +1,7 @@
-# ThoughtFountainHub
+![GIF](https://media.giphy.com/media/p5AnBB601FLQ1PY9vh/giphy.gif)
 
+
+# Welcome to ThoughtFountainHub
 This project provides a platform where beginner developers can share their ideas. The project allows users to contribute and evaluate through opened issues.
 
 ## Participation
