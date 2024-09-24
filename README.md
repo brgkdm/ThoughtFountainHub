@@ -26,3 +26,8 @@ Anyone can contribute. You can share your ideas from the [issues](https://github
 
 ## Contact
 If you have any questions or suggestions about this project, you can reach me at [ThoughtFountainHub](mailto:beratgokkdemir@icloud.com)
+
+## Our Community Channel
+🌟 Why Join [Discord Channel](https://discord.gg/Fx2FA5guhZ)? 🌟
+
+Join our community to connect with like-minded individuals who share your interests! Whether you’re looking to make new friends, participate in engaging discussions, or gain insights on topics you love, our server has something for everyone. Enjoy fun events, exclusive content, and a welcoming environment where your voice matters. Don't miss out—be part of something great!
