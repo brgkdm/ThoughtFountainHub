@@ -25,6 +25,3 @@ Anyone can contribute. You can share your ideas from the [issues](https://github
 **Remember,**
 
 > These are the things that are needed for a **better project** flow and a **beautiful environment**.
-
-## Contact
-If you have any questions or suggestions about this project, you can reach me at [ThoughtFountainHub](mailto:beratgokkdemir@icloud.com)
